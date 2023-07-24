@@ -1,4 +1,4 @@
-# Firetv_doc
+# Firetv development documentation
 
 A. How to test the in-app purchase in Amazon FireTV?
    1. Download the Amazon app tester from the Amazon store in FireTV
